@@ -1,0 +1,3 @@
+/home/zhongwenjian/g++learn/build/CMakeFiles/hello.dir
+/home/zhongwenjian/g++learn/build/CMakeFiles/edit_cache.dir
+/home/zhongwenjian/g++learn/build/CMakeFiles/rebuild_cache.dir
